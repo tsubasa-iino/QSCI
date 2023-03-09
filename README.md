@@ -2,5 +2,5 @@
 [1] https://arxiv.org/abs/2302.11320<br>
 <br>
 <br>
-You can check jupyter-notebook code (QSCI.ipynb) from https://nbviewer.org/github/tsubasa-iino/QSCI/blob/main/QSCI.ipynb<br>
+The obtained plot figure is ./result.png file.<br>
 The generated MO cube files are stored in ./cmo/ directory.<br>
